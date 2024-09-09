@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/4VP23AI019/EXP3/logic_circuit2_isim_beh.exe" -prj "D:/4VP23AI019/EXP3/logic_circuit2_beh.prj" "work.logic_circuit2" "work.glbl" 
